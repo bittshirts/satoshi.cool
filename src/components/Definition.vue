@@ -16,13 +16,13 @@
 @keyframes fadeIn {
   to {
     max-width: 100%;
-    opacity: 100%;
+    opacity: 1;
   }
 }
 
 .def-wrapper {
   max-width: 0px;
-  opacity: 0%;
+  opacity: 0;
   animation-duration: 3s; /* the duration of the animation */
   animation-timing-function: ease; /* how the animation will behave */
   animation-delay: 0.8s; /* how long to delay the animation from starting */

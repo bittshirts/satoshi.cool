@@ -10,7 +10,7 @@
   </div>
   <div class="centered even">
     <a href="https://www.blockchain.com/btc/address/36dafGyDx7rsTg6TKWjnCKz6XfK3PwfCCk">36dafGyDx7rsTg6TKWjnCKz6XfK3PwfCCk</a>
-    <a href="github">Github</a>
+    <a href="https://github.com/nminchow/satoshi.cool">Github</a>
   </div>
 </template>
 

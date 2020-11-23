@@ -28,13 +28,13 @@ export default {
 <style scoped>
 @keyframes fadeIn {
   to {
-    opacity: 100%;
+    opacity: 1;
   }
 }
 
 .ticker {
   font-size: 1rem;
-  opacity: 0%;
+  opacity: 0;
   animation: 3s ease 1s 1 normal forwards running fadeIn;
 }
 </style>
