@@ -31,14 +31,12 @@ export default {
     const route = useRoute();
     const path = ref(defaultPath);
     const width = ref(1.6);
-    const backward = ref(false);
     if (route.query.v === '2') {
       path.value = 'm 16.15 20.5 l -8 -8 l -8 8 l 8 8';
       width.value = 0.5;
-      backward.value = true;
     }
     watch(() => route.query, () => window.location.reload());
-    return { path, width, backward };
+    return { path, width };
   },
 };
 </script>
