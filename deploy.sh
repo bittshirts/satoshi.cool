@@ -10,12 +10,12 @@ yarn run build
 cd dist
 
 # if you are deploying to a custom domain
-echo 'satoshi.cool' > CNAME
+echo 'satsymbol.info' > CNAME
 
 git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:nminchow/satoshi.cool.git master:gh-pages
+git push -f git@github.com:bittshirts/satoshi.cool.git master:gh-pages
 
 cd -

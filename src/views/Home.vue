@@ -9,8 +9,10 @@
     </div>
   </div>
   <div class="centered even">
-    <a href="https://www.blockchain.com/btc/address/36dafGyDx7rsTg6TKWjnCKz6XfK3PwfCCk">36dafGyDx7rsTg6TKWjnCKz6XfK3PwfCCk</a>
-    <a href="https://github.com/nminchow/satoshi.cool">Github</a>
+    <a href="https://blockchair.com/bitcoin/address/bc1qpmjkw4tnsc5pwjnlzm5phnl8jp50v776vlgxmw">bc1qpmjkw4tnsc5pwjnlzm5phnl8jp50v776vlgxmw</a>
+    <a href="https://github.com/bittshirts/satoshi.cool">Github</a>
+    <div>Website inspired by and <a href="https://github.com/nminchow/satoshi.cool">forked</a> from <a href="https://satoshi.cool">satoshi.cool</a></div>
+    <div>Logo inspired by <a href="https://www.reddit.com/user/denzelfrothington/">u/denzelfrothington</a> (<a href="https://www.reddit.com/r/Bitcoin/comments/k0e98n/my_proposal_for_the_satish_symbol_still_looks/">original post</a>)</div>
   </div>
 </template>
 
