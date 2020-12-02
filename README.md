@@ -1,6 +1,6 @@
 # [satsymbol.info](https://satsymbol.info)
 
-[Cool S](https://en.wikipedia.org/wiki/Cool_S) => [Minimal Cool S](https://www.reddit.com/r/Bitcoin/comments/k0e98n/my_proposal_for_the_satish_symbol_still_looks/)
+[Cool S](https://en.wikipedia.org/wiki/Cool_S) => [Minimal Cool S](https://www.reddit.com/r/Bitcoin/comments/k0e98n/my_proposal_for_the_satish_symbol_still_looks/)<br>
 [Minimal Cool S](https://www.reddit.com/r/Bitcoin/comments/k0e98n/my_proposal_for_the_satish_symbol_still_looks/) => [Satoshi](https://satsymbol.info)
 
 
