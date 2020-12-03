@@ -14,6 +14,7 @@ Built with the [vue cli](https://cli.vuejs.org).
 ```
 docker-compose up -d
 ```
+and access @ localhost:8093
 
 ### Project setup
 ```
