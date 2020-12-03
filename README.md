@@ -10,6 +10,11 @@
 
 Built with the [vue cli](https://cli.vuejs.org).
 
+### One-click build & run
+```
+docker-compose up -d
+```
+
 ### Project setup
 ```
 yarn install
