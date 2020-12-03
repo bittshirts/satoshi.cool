@@ -1,0 +1,7 @@
+version: '2'
+services:
+  nginx:
+    build: .
+    restart: unless-stopped
+    ports:
+    - 127.0.0.1:8093:80
